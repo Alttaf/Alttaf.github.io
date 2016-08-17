@@ -1,7 +1,7 @@
 datagrid
 ========
 
-This is a datagrid, my first play aroudn using angular and the google apis, in this case google sheets,  I am using a simple polling service taken from github, the then service polls for any changes on my public google sheet, URL
+This is a datagrid, my first play around using angular and the google apis, in this case google sheets,  I am using a simple polling service taken from github, which then polls for any changes on my public google sheet, URL
 
 https://docs.google.com/spreadsheets/d/1l6OULdMB6wv03z19VyW3S8-OgejwId6Rjl1cZY_eMO8/pubhtml
 
